@@ -16,7 +16,8 @@ I have added a webpage in which the user is able to contact me if they have any 
 
 The authors of these webpages were created by me 
 
-ex. Munaad  
+##BY:
+Munaad  
 
 ## License
 
